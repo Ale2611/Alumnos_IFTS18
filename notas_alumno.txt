@@ -1,0 +1,3 @@
+notas_alumnos
+DNI Nombre Apellido Domicilio Tec.Programación-Nota1 Tec.Programación-nota2 Administración BBDD-Nota1 Administración BBDD-Nota2 Tec.Programación-Promedio Adminstración-Promedio Situación - Tec.programación Situación - Administración BBDD
+123 Leo Messi Rosario 8.0 9.0 7.0 4.0 8.5 5.5 8.5 5.5 Regular NO Regular
